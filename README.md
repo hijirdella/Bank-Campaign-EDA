@@ -4,6 +4,7 @@
 # **Bank Campaign EDA**
 
 📊 **Exploratory Data Analysis (EDA) and Statistical Analysis on Bank Marketing Campaign Data**
+![Cover](https://github.com/hijirdella/Bank-Campaign-EDA/blob/52ed888c3e30f0ccbd9c329c8c66eb60a8945ce5/Cover.jpg)
 
 ---
 
