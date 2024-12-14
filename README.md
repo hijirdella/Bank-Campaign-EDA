@@ -1,4 +1,3 @@
-Berikut adalah template README untuk repository GitHub Anda:
 
 ---
 
